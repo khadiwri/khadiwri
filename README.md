@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khadiwri
-- 👀 I’m interested in ... app developing, cloud computing, and 3D printing.
+- 👀 I’m interested in ... app development.
 - 🌱 I’m currently learning ... Javascript, Bootstrap, and React.
 - 💞️ I’m looking to collaborate on ... app development (mobile and web).
 - 📫 How to reach me ... khadine.s.wright@gmail.com :)
