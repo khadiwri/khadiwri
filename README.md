@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cf717&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8864e7&height=120&section=header"/>
 
 <h1 align="center">
   Hi, I'm Khadi ~Kay-Dee~
@@ -28,7 +28,6 @@ current_job: Game Designer | Developer
 education:
   [
     "BS in Computer Science",
-    "Self-Taught Developer and Designer",
     "Minor in English",
   ]
 company: DigmTech
@@ -42,9 +41,7 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Python Instructor - Firefly Coders",
   ]
   
 2026 Goals: ["Create 3+ Projects and learn at least 5 new Technologies."]
