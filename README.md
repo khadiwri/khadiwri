@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8864e7&height=120&section=header"/>
 
 <h1 align="center">
-  Hi, I'm Khadi ~Kay-Dee~
+  Hi, I'm Khadi (Kay~Dee) 
 </h1>
 
 <p align="center">
