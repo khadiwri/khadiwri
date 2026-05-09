@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cf717&height=120&section=header"/>
 
 <h1 align="center">
   Hi, I'm Khadi ~Kay-Dee~
