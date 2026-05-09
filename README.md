@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8864e7&height=120&section=header"/>
 
 <h1 align="center">
-  Hi, I'm Khadi (Kay~Dee) 
+  Hi, I'm Khadi (Kay~Dee) :)
 </h1>
 
 <p align="center">
@@ -47,6 +47,8 @@ technical_background:
 2026 Goals: ["Create 3+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Art", "Comedy"]
 ```
+<h3 align="center"> Thanks for visiting <3! </h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8864e7&height=120&section=footer"/>
 <!---
 khadiwri/khadiwri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
